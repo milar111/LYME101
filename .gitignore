@@ -1,0 +1,23 @@
+# Source archive — not part of the published project
+LYME.zip
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# KiCad backups / autosave / caches
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+*.lck
+
+# LTspice generated files
+*.raw
+*.log
+*.op.raw
+*.net
+
+# KiCad local settings
+*.kicad_prl
